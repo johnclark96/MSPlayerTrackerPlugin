@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MSPlayerTrackerPlugin:jar">
+    <output-path>G:/Minecraft Development Servers/SpongeForge Blank 1.12.2 Development/mods</output-path>
+    <root id="archive" name="MSPlayerTrackerPlugin.jar">
+      <element id="module-output" name="MSPlayerTrackerPlugin.main" />
+    </root>
+  </artifact>
+</component>

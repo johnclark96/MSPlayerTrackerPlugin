@@ -41,6 +41,7 @@ repositories {
 
 dependencies {
     compile 'org.spongepowered:spongeapi:7.0.0'
+    compile 'io.github.nucleuspowered:nucleus-api:1.9.2-S7.1'
 }
 
 processResources {
