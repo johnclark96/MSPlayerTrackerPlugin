@@ -33,12 +33,12 @@ public class MSPlayerTracker {
 
     @Listener
     public void onStarting(GameStartingServerEvent event) {
-        registerCommands();
         logger.info("[MSPTRACK] Registered Commands.");
     }
 
     @Listener
     public void onServerStart(GameStartedServerEvent event) {
+        registerCommands();
     }
 
 
